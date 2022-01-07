@@ -1,7 +1,8 @@
-﻿//-------Objetivo deste conteudo é demonstrar o-
-//-------uso de: variavel de classe-------------
-//-------by Rodolfo C. Nascimento---------------
-//-------email: espanharodofera@gmail.com-------
+//-------Objetivo deste conteudo é demonstrar o----------
+//-------uso de: variavel de classe-----------------------
+//-------by Rodolfo C. Nascimento-------------------------
+//-------email: espanharodofera@gmail.com-----------------
+//-------linkedin: rodolfo-correia-do-nascimento-b96292189
 using System;
 using Variaveis_de_Classe.Models;
 
