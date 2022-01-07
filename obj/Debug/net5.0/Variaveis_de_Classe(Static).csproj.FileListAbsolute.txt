@@ -1,0 +1,16 @@
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).exe
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).deps.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).runtimeconfig.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).runtimeconfig.dev.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\ref\Variaveis_de_Classe(Static).dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\bin\Debug\net5.0\Variaveis_de_Classe(Static).pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).csprojAssemblyReference.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).AssemblyInfoInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).AssemblyInfo.cs
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).csproj.CoreCompileInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\ref\Variaveis_de_Classe(Static).dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Variaveis_de_Classe(Static)\obj\Debug\net5.0\Variaveis_de_Classe(Static).genruntimeconfig.cache
